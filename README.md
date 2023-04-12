@@ -4,7 +4,7 @@
 <p align="center"> Passionate software engineer in Web Application built with Java Spring Framework! </p>
 
 - 🌟 Learning anything I can get my hands on! </a>
-- ⚡ Currently studing all thing about Java Spring WEb Application
+- ⚡ I am currently studying everything about Java Spring Web Application
 - 💬 Let's connect – [LinkedIn](https://www.linkedin.com/in/anton-nirca)
 - 🤩  Always looking to collaborate
 
